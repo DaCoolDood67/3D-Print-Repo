@@ -1,0 +1,14 @@
+Print Settings:
+
+Slicing Software: FlashPrint by FlashForge
+Layer Height: 0.08 mm
+Preimeter Shells: 3
+Top Solid Layers: 6
+Infill Density: 10%
+Infill Pattern: 3D Infill (But any infill should work just fine)
+Base Print Speed: 50 mm/s
+Travel Speed: 70 mm/s
+Extruder Temprature: 220 °C
+Heated Bed Temp: N/A (Optional unless you need it for better adhesion)
+Supports: Yes (Auto Supports)
+Raft: Yes
